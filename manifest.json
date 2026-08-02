@@ -1,6 +1,6 @@
 {
   "name": "mmd-hud-iframe",
-  "buildId": "iframe-srcdoc-20260803T014500Z",
+  "buildId": "iframe-srcdoc-20260803T020500Z",
   "protocolVersion": 2,
   "host": "host/mmd-hud-iframe-host.js",
   "frameScript": "frame/mmd-hud-iframe-frame.js",
