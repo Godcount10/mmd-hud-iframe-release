@@ -1,7 +1,7 @@
 {
   "name": "mmd-hud-iframe",
   "version": "0.1.0",
-  "buildId": "iframe-css-inline-20260803",
+  "buildId": "gc-three-surfaces-20260803T2215",
   "protocolVersion": 2,
   "host": "host/mmd-hud-iframe-host.js",
   "frameScript": "frame/mmd-hud-iframe-frame.js",
