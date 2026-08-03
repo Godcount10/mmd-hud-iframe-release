@@ -1,7 +1,7 @@
 {
   "name": "mmd-hud-iframe",
   "version": "0.1.0",
-  "buildId": "gc-send-click-fix-20260803T2225",
+  "buildId": "model-bridge-fix-20260804",
   "protocolVersion": 2,
   "host": "host/mmd-hud-iframe-host.js",
   "frameScript": "frame/mmd-hud-iframe-frame.js",
