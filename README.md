@@ -6,7 +6,7 @@ Public release artifacts for `mmd-hud-iframe`.
 - `frame/mmd-hud-iframe-frame.js`: bundled Frame IIFE loaded by the Host into a sandboxed `srcdoc` iframe.
 - Vue SFC CSS is injected into the Frame IIFE at build time; no separate Frame stylesheet is required.
 
-Build ID: `911c404`
+Build ID: `2487ad9`
 Protocol: `2`
 Themes: `game`, `bridge-debug`
 
