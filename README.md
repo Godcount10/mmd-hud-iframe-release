@@ -6,7 +6,7 @@ Public release artifacts for `mmd-hud-iframe`.
 - `frame/mmd-hud-iframe-frame.js`: bundled Frame IIFE loaded by the Host into a sandboxed `srcdoc` iframe.
 - Vue SFC CSS is injected into the Frame IIFE at build time; no separate Frame stylesheet is required.
 
-Build ID: `conversation-delete-hud-fix-20260806`
+Build ID: `rename-dialog-selector-fix-20260806`
 Protocol: `2`
 Themes: `game`, `bridge-debug`
 
