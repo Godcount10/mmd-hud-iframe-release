@@ -1,11 +1,11 @@
 {
   "name": "mmd-hud-iframe",
   "version": "0.1.0",
-  "buildId": "rename-dialog-selector-fix-20260806",
+  "buildId": "dragon-raja-775a11d",
   "protocolVersion": 2,
   "host": "host/mmd-hud-iframe-host.js",
   "frameScript": "frame/mmd-hud-iframe-frame.js",
   "frameMode": "sandbox-srcdoc",
   "frameCss": "injected-into-frame-script",
-  "themes": ["game", "bridge-debug"]
+  "themes": ["dragon-raja", "bridge-debug"]
 }
