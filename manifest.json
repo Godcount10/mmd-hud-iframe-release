@@ -1,11 +1,20 @@
 {
   "name": "mmd-hud-iframe",
   "version": "0.1.0",
-  "buildId": "dragon-raja-775a11d",
+  "buildId": "dragon-raja-458456cb491f",
+  "sourceCommit": "458456cb491f1b233f1feccf3c248785f998ccef",
   "protocolVersion": 2,
-  "host": "host/mmd-hud-iframe-host.js",
-  "frameScript": "frame/mmd-hud-iframe-frame.js",
+  "host": {
+    "path": "host/mmd-hud-iframe-host.js",
+    "bytes": 121288,
+    "sha256": "ee5790b97af1bc868adce07f432f8d62e0a7f9cf28c7b3ee13fff7cf7cfaad0a"
+  },
+  "frameScript": {
+    "path": "frame/mmd-hud-iframe-frame.js",
+    "bytes": 233846,
+    "sha256": "f06fb10016dc5dee2b41d70be8d8d22e479f24bb989b5b580421332a08424079"
+  },
   "frameMode": "sandbox-srcdoc",
   "frameCss": "injected-into-frame-script",
-  "themes": ["dragon-raja", "bridge-debug"]
+  "themes": ["dragon-raja"]
 }
