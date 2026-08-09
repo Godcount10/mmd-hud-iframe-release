@@ -7,9 +7,9 @@ Public compiled test artifacts for the private Dragon Raja iframe Theme.
 - Vue SFC CSS is bundled into the Frame IIFE; no separate Frame stylesheet is required.
 - Dragon Raja Vue / TypeScript source code is not published in this repository.
 
-Build ID: `dragon-raja-458456cb491f`
+Build ID: `dragon-raja-92ce0bfc444c`
 
-Private source commit: `458456cb491f1b233f1feccf3c248785f998ccef`
+Private source commit: `92ce0bfc444c589c8eefa50bc319f3274832a08f`
 
 Protocol: `2`
 
